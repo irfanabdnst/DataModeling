@@ -1,0 +1,81 @@
+Install Oracle Database Express Edition 21c
+
+01. Extract OracleXE213_Win64.zip
+	c:\OracleXE213_Win64
+	
+02. Double Click Setup.exe
+
+03. Lokasi c:\u01
+
+04. User SYS, SYSTEM, PDBADMIN
+	Password : Welcome1
+	
+05. Klik Allow Access jika ada 
+	warning dari Windows Firewall
+	
+06. Screenshot informasi yg muncul
+    di akhir instalasi
+	
+07. Buka Web Browser:
+	- https://localhost:5500/em
+	- username 			: SYS
+	- Password 			: Welcome1
+	- Container Name 	: XEPDB1
+	
+Install Oracle SQL Developer
+
+01. Extract sqldeveloper-22.2.0.173.2018-x64.zip
+    ke C:\
+
+02. Buat shortcut SQL Developer di Desktop
+
+03. Jalankan SQL Developer
+
+04. Buat koneksi ke database
+	- Name				: SYS Conn
+	- username 			: SYS
+	- Password 			: Welcome1	
+	- Role				: SYSDBA
+	- Check Save Password
+	- Hostname			: Localhost
+	- Port				: 1521
+	- Service Name		: XEPDB1
+	
+05. Keluar dari SQL Developer
+	File -> Exit
+	
+Install Oracle SQL Data Modeler
+
+01. Extract datamodeler-22.2.0.165.1149-x64.zip ke C:\
+
+02. Buat shortcut SQL Data Modeler di Desktop
+
+03. Jalankan SQL Data Modeler	
+	
+Lokasi Download ketiga software diatas
+
+01. www.oracle.com
+
+02. Resource -> Download -> Developer Download
+	
+==== Mengambil Solusi di Github ===
+
+01. Buka Web Browser
+
+	http://github.com/hbudisan
+	
+	Pilih "Data Modeling"
+	
+02. Simpan Latihan di Exercise 4
+	dg nama Exercise4.dmd
+	
+03. Close dari SQL Data Modeler Exercise4.dmd
+	File -> Close All
+	
+04. Copy File Exercise4.dmd dan folder Exercise4
+	Hasil copynya rename menjadi 
+	Exercise5.dmd dan folder Exercise5
+	
+05. Buka Exercise5.dmd di SQL Data Modeler
+	
+	
