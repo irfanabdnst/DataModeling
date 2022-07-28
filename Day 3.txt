@@ -1,0 +1,26 @@
+SQL Data Modeler Reporting
+
+01. Download HR Schema Relational Model
+    di github (HR Schema.zip)
+	
+	http://github.com/hbudisan
+	
+02. Extract "HR Schema.zip"
+	di c:\labs
+	
+03. Buka hr_schema.dmd di "SQL Data Modeler"
+
+04. Generate Report:
+	File -> Reports
+	
+05. Generate Report ke dalam format
+	- html
+	- xlsx
+	
+SQL Developer Reporting	
+
+01. Ikuti langkah2 nya sesuai dg activity guide
+	
+	
+	
+	
