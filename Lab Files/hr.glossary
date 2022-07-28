@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<cwd_glossary name="HR Glossary" description="HR Schema glossary" id="A6F90EBE-5472-3423-1EC5-48CC7EA56A21" incomplete_modifiers="true" separator_type="Space" mw_separator="-" >
+
+   <glossaryWord name="COUNTRY" abbreviation="CTRY" alt_abbreviation="" class_word="true" id="7D74ED2F-2F70-2FFF-E318-014BC8073182" import_id="" description="" />
+   <glossaryWord name="IDENTIFICATION" abbreviation="ID" alt_abbreviation="" qualifier="true" id="FF0D28F1-A728-51EB-4ED7-9783BB6DB102" import_id="" description="" />
+   <glossaryWord name="REGION" abbreviation="REG" alt_abbreviation="" class_word="true" id="8930A055-0B44-34D3-32F9-D213D1166F36" import_id="" description="" />
+   <glossaryWord name="DEPARTMENT" abbreviation="DEPT" alt_abbreviation="" class_word="true" id="531FBE0F-A873-B70E-26BF-66CA3EE71FF7" import_id="" description="" />
+   <glossaryWord name="MANAGER" abbreviation="MGR" alt_abbreviation="" class_word="true" id="49CB81F9-BF01-B16F-E8E0-C5D19964E73B" import_id="" description="" />
+   <glossaryWord name="LOCATION" abbreviation="LOC" alt_abbreviation="" class_word="true" id="20709F3D-DC2D-899A-B15E-6EF7B30987D6" import_id="" description="" />
+   <glossaryWord name="EMPLOYEE" abbreviation="EMP" alt_abbreviation="" class_word="true" primary_word="true" id="63B7906E-B4F7-7B9C-A5D1-6647FE7171E4" import_id="" description="" />
+   <glossaryWord name="FIRST" abbreviation="FIRST" alt_abbreviation="" primary_word="true" id="233F8810-296F-860A-9A10-EE30E33BCA55" import_id="" description="" />
+   <glossaryWord name="LAST" abbreviation="LAST" alt_abbreviation="" primary_word="true" id="033116A3-36E8-36F3-663F-B5062B8B4407" import_id="" description="" />
+   <glossaryWord name="EMAIL" abbreviation="EMAIL" alt_abbreviation="" class_word="true" id="68C2B280-05BC-7A08-8834-89734D13ACAB" import_id="" description="" />
+   <glossaryWord name="PHONE" abbreviation="PH" alt_abbreviation="" class_word="true" id="600589D1-CEEF-717F-30A8-6DF001644408" import_id="" description="" />
+   <glossaryWord name="NUMBER" abbreviation="NO" alt_abbreviation="" class_word="true" id="3A74E9D4-414F-4CB5-FA9F-024120C2B27E" import_id="" description="" />
+   <glossaryWord name="HIRE" abbreviation="HIRE" alt_abbreviation="" primary_word="true" id="4D0C992D-436C-D3EE-6BCA-7B3549E55B90" import_id="" description="" />
+   <glossaryWord name="DATE" abbreviation="DATE" alt_abbreviation="" class_word="true" id="9062EDF4-522E-5BF6-B5C0-EF2A81890208" import_id="" description="" />
+   <glossaryWord name="JOB" abbreviation="JOB" alt_abbreviation="" class_word="true" id="5A8BCB06-F94B-5D94-2593-64B764BDA13A" import_id="" description="" />
+   <glossaryWord name="SALARY" abbreviation="SAL" alt_abbreviation="" class_word="true" id="E3ADB04D-D1F6-A39A-D27A-7684EDB4C13B" import_id="" description="" />
+   <glossaryWord name="COMMISSION" abbreviation="COMM" alt_abbreviation="" class_word="true" id="A51D31CF-718C-6411-EDDE-18B8101E4592" import_id="" description="" />
+   <glossaryWord name="PERCENTAGE" abbreviation="PCT" alt_abbreviation="" class_word="true" id="372F289C-5AF9-2912-691A-3C952BDF6BF2" import_id="" description="" />
+   <glossaryWord name="TITLE" abbreviation="TITLE" alt_abbreviation="" class_word="true" id="40D754DB-F524-7A5D-A5F8-B696932EC4D8" import_id="" description="" />
+   <glossaryWord name="MINIMUM" abbreviation="MIN" alt_abbreviation="" primary_word="true" id="73561F83-BFCC-6CF1-3DCD-BB84B7A08224" import_id="" description="" />
+   <glossaryWord name="MAXIMUM" abbreviation="MAX" alt_abbreviation="" primary_word="true" id="084E6565-E2DA-C050-529E-3361D0DC0D97" import_id="" description="" />
+   <glossaryWord name="START" abbreviation="START" alt_abbreviation="" primary_word="true" id="44A53B47-3FD7-AE43-0FB5-5991397989F1" import_id="" description="" />
+   <glossaryWord name="END" abbreviation="END" alt_abbreviation="" primary_word="true" id="985A5324-AA60-C550-21E5-2A1E03AC6CBB" import_id="" description="" />
+   <glossaryWord name="STATE" abbreviation="STATE" alt_abbreviation="" class_word="true" id="89F9856D-3418-62E2-C5E6-26ED38F3681B" import_id="" description="" />
+   <glossaryWord name="PROVINCE" abbreviation="PROV" alt_abbreviation="" class_word="true" id="2E6AE342-67A8-FABC-A789-1FAAF4AD363E" import_id="" description="" />
+   <glossaryWord name="POSTAL" abbreviation="POST" alt_abbreviation="" class_word="true" id="B5EDB949-8FF7-6418-CFB7-0BBB9BEFE92B" import_id="" description="" />
+   <glossaryWord name="CODE" abbreviation="CODE" alt_abbreviation="" primary_word="true" id="6A3AF926-201D-409C-2C3A-11660ABB14CB" import_id="" description="" />
+   <glossaryWord name="STREET" abbreviation="STR" alt_abbreviation="" class_word="true" id="63099DA2-40C8-7A64-44D9-7B0AD1E831CD" import_id="" description="" />
+   <glossaryWord name="ADDRESS" abbreviation="ADDR" alt_abbreviation="" class_word="true" id="27B9178B-320E-6215-AAC1-63CC835AADBA" import_id="" description="" />
+   <glossaryWord name="Lowest" abbreviation="LO" alt_abbreviation="" modifier="true" id="8808ED5B-FBD3-845E-734C-FF7CC1D6AE04" import_id="" description="" />
+   <glossaryWord name="Highest" abbreviation="HI" alt_abbreviation="" modifier="true" id="8FA3C61C-0054-C869-E41A-41C92A6D2DD2" import_id="" description="" />
+   <glossaryWord name="Employee Name" abbreviation="ENAME" alt_abbreviation="" class_word="true" primary_word="true" id="72028C00-1FAD-EDB9-609D-99F766672547" import_id="" description="" />
+   <glossaryWord name="Department Name" abbreviation="DNAME" alt_abbreviation="" class_word="true" primary_word="true" id="3842D187-02FF-2488-2D55-BE3848186ADA" import_id="" description="" />
+   <glossaryWord name="Calendar" abbreviation="CAL" alt_abbreviation="" modifier="true" id="C327DCB2-6772-9A23-3202-C5FF078CA950" import_id="" description="" />
+   <glossaryWord name="Fiscal" abbreviation="FIS" alt_abbreviation="" modifier="true" id="43E899F3-5A76-445C-523C-48AC8B279956" import_id="" description="" />
+   <glossaryWord name="Description" abbreviation="DESC" alt_abbreviation="" class_word="true" id="B9A7D504-FAFD-09D1-E671-5210D378F104" import_id="" description="" />
+   <glossaryWord name="Product" abbreviation="PROD" alt_abbreviation="" primary_word="true" id="E8001DC7-4D43-9D10-0B72-6BC0FE29B606" import_id="" description="" />
+   <glossaryWord name="Effective Date" abbreviation="EFF" alt_abbreviation="" class_word="true" modifier="true" id="CB10D037-90CC-F2E4-C5E4-02E538A6901E" import_id="" description="" />
+   <glossaryWord name="Source" abbreviation="SRC" alt_abbreviation="" class_word="true" id="795E0DFF-C381-E608-50FE-E1C25832F4A2" import_id="" description="" />
+   <glossaryWord name="Customer" abbreviation="CUST" alt_abbreviation="" primary_word="true" id="008095AF-578D-3F82-C11D-A5852A21D116" import_id="" description="" />
+   <glossaryWord name="Promotion" abbreviation="PROMO" alt_abbreviation="" primary_word="true" id="27C97CF9-8AED-D219-9F86-F6AB2FBD2190" import_id="" description="" />
+   <glossaryWord name="History" abbreviation="HIST" alt_abbreviation="" class_word="true" modifier="true" id="F6C0EC07-9FA4-75F7-47B9-8F64A0B8B33A" import_id="" description="" />
+   <glossaryWord name="Year Of Birth" abbreviation="YOB" alt_abbreviation="" class_word="true" modifier="true" id="E1F595C9-5838-0D4B-F64E-CAC9E2A9AA89" import_id="" description="" />
+   <glossaryWord name="NAME" abbreviation="NM" alt_abbreviation="" class_word="true" id="482001DC-B2BC-4E28-E499-38E66769BA80" import_id="" description="" />
+   <glossaryWord name="Duration" abbreviation="DUR" alt_abbreviation="" class_word="true" id="D8259848-D6D9-8632-A34D-B0DE33D5659F" import_id="" description="" />
+   <glossaryWord name="ASSIGNED" abbreviation="ASSGND" alt_abbreviation="" modifier="true" id="678051A0-4311-0051-FE2F-F05734FFFB73" import_id="" description="" />
+   <glossaryWord name="PROJECT" abbreviation="PROJECT" alt_abbreviation="" primary_word="true" id="6D8F76E3-6EC2-BE18-9C14-DFF178D017D6" import_id="" description="" />
+   <glossaryWord name="WORK ASSIGNMENT" abbreviation="WORK ASSIGNMENT" alt_abbreviation="" class_word="true" id="F1F7EA74-FF6C-7027-8A9D-C1E951D17DA0" import_id="" description="" />
+
+</cwd_glossary>
