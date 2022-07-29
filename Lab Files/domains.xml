@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<domain version="2.0">
+	<object type="Domain" id="05380779-AA6B-F6D6-E4A9-D8438B965B01" rep_oid="null" rep_ovid="null" is_checkedout="false" checkedout_by="" visible_in_main_view="false" avt_sort_order="0" synonym="" dimension="" file="domains" use_default_color="true" background_color="null" foreground_color="null">
+		<name>Name_50</name>
+		<comment></comment>
+		<notes></notes>
+		<alter type="created">
+			<user>oracle</user>
+			<timestamp>2010-02-10 13:41:13</timestamp>
+		</alter>
+		<alter type="changed">
+			<user>oracle</user>
+			<timestamp>2010-02-10 13:41:13</timestamp>
+		</alter>
+		<properties>
+			<parameter name="design.owner" value="domains" />
+			<parameter name="object.existsinrepository" value="true" />
+		</properties>
+		<avt>
+			<beginvalue></beginvalue>
+			<endvalue></endvalue>
+			<description></description>
+		</avt>
+		<parameters>
+<!-- Default values for named parameters, passed on to logical datatypes -->
+
+			<parameter name="design.owner" value="domains" />
+			<parameter name="object.existsinrepository" value="true" />
+			<parameter name="size" value="50 CHAR" />
+		</parameters>
+		<logicaltype oid="LOGDT024" name="VARCHAR" />
+		<engineering />
+		<des_obj_version version="1.0" />
+	</object>
+	<object type="Domain" id="75944096-B87A-E700-F1D9-AA3A0B9500A8" rep_oid="null" rep_ovid="null" is_checkedout="false" checkedout_by="" visible_in_main_view="false" avt_sort_order="0" synonym="" dimension="" file="domains" use_default_color="true" background_color="null" foreground_color="null">
+		<name>id_6</name>
+		<comment></comment>
+		<notes></notes>
+		<alter type="created">
+			<user>oracle</user>
+			<timestamp>2010-02-10 13:40:50</timestamp>
+		</alter>
+		<alter type="changed">
+			<user>oracle</user>
+			<timestamp>2010-02-10 13:40:50</timestamp>
+		</alter>
+		<properties>
+			<parameter name="design.owner" value="domains" />
+			<parameter name="object.existsinrepository" value="true" />
+		</properties>
+		<avt>
+			<beginvalue></beginvalue>
+			<endvalue></endvalue>
+			<description></description>
+		</avt>
+		<parameters>
+<!-- Default values for named parameters, passed on to logical datatypes -->
+
+			<parameter name="design.owner" value="domains" />
+			<parameter name="object.existsinrepository" value="true" />
+			<parameter name="size" value="6 BYTE" />
+		</parameters>
+		<logicaltype oid="LOGDT019" name="NUMERIC" />
+		<engineering />
+		<des_obj_version version="1.0" />
+	</object>
+</domain>
